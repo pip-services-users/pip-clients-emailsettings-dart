@@ -1,7 +1,7 @@
 name: pip_clients_emailsettings
-version: "1.0.0"
+version: "1.0.1"
 description: Clients for Email Settings microservice for Pip.Services in Dart. This microservice keeps settings of email recipients.
-homepage: https://github.com/pip-services-users/pip-clients-emailsetings-dart
+homepage: https://github.com/pip-services-users/pip-clients-emailsettings-dart
 
 environment:
   sdk: '>=2.1.0 <3.0.0'
