@@ -27,7 +27,8 @@ void main() {
         Descriptor('pip-services-emailsettings', 'controller', 'default',
             'default', '1.0'),
         controller,
-        Descriptor('pip-services-email', 'client', 'null', 'default', '1.0'), EmailNullClientV1()
+        Descriptor('pip-services-email', 'client', 'null', 'default', '1.0'),
+        EmailNullClientV1()
       ]);
       controller.setReferences(references);
 
